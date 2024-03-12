@@ -1,0 +1,4 @@
+Steff,true,true,true,true
+TUDOR,true,true,true,false
+Tudor,true,true,false,false
+Test,true,false,false,false

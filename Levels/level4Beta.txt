@@ -1,0 +1,30 @@
+24
+13
+G G G G G G G G G G G G G G G G G G G G G G G G
+G P P P G G P P P P P P P G P P P G T T T P G G
+G P G P P P P G G P G G T G P G P P T G G P P G
+G P G G G G P T T T T T T P P G P G T G T T G G
+G P P P P P P G G G G T G G G G P G T T T G P G
+G G P G G P G P P P P T T G P T T P P G G G P G
+G P P G G P G P G G P G P G P G G P G P P P T G
+G P G G P P T T T T T G P P P G T T T T G G T G
+G P T T T G G G P G T P T G G G G P G G G G P G
+G P G G T P P P P G T G T T P P P P P T T G T G
+G P G G T G T G T G T G G T G P G G P G P G T G
+G P T T T G P P P P P P T T G T T T T G T T P G
+G G G G G G G G G G G G G G G G G G G G G G G G
+1 1 1
+
+2 6 1
+
+2 1 11
+
+1 7 5
+
+1 22 5
+
+2 22 11
+//
+25
+15
+4 5 5 3 1 5 6 7
